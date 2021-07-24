@@ -1,0 +1,15 @@
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/EventBus.deps.json
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/EventBus.runtimeconfig.json
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/EventBus.runtimeconfig.dev.json
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/EventBus.dll
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/ref/EventBus.dll
+/Users/besure.chen/RiderProjects/EventBus/EventBus/bin/Debug/net5.0/EventBus.pdb
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.csprojAssemblyReference.cache
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.AssemblyInfoInputs.cache
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.AssemblyInfo.cs
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.csproj.CoreCompileInputs.cache
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.dll
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/ref/EventBus.dll
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.pdb
+/Users/besure.chen/RiderProjects/EventBus/EventBus/obj/Debug/net5.0/EventBus.genruntimeconfig.cache
